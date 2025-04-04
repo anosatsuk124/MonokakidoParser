@@ -1,5 +1,7 @@
 # `Monokakido Parser`
 
+[日本語のREADME](./README.ja.md)
+
 `Monokakido Parser` is a library for parsing dictionary data from Monokakido (物書堂).
 
 ## Important Notice
