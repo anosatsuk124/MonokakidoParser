@@ -1,12 +1,8 @@
-using System;
+namespace MonokakidoParser;
 
-namespace ConsoleApp
+internal class Program
 {
-    class Program
+    protected static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }

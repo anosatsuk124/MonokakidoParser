@@ -18,7 +18,6 @@ public static class ZlibHelper
         using (var outStream = new MemoryStream())
         {
             decompressor.CopyTo(outStream);
-            // 入力全体が処理されたかチェック
             if (inStream.Position != inBuf.Length)
             {
                 throw new InvalidDataException("Incorrect stream length.");
