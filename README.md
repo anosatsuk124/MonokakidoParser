@@ -4,7 +4,9 @@
 
 ## Important Notice
 
-> [!CAUTION] > **Legal Compliance and Responsibility**
+> [!CAUTION]
+>
+> **Legal Compliance and Responsibility**
 >
 > - This library does not encourage or facilitate circumvention of technological protection measures or uses that exceed the scope of private copying permitted under copyright law.
 > - This library does not provide functionality to bypass technological protection measures.
