@@ -12,7 +12,7 @@
 >
 > - This library does not encourage or facilitate circumvention of technological protection measures or uses that exceed the scope of private copying permitted under copyright law.
 > - This library does not provide functionality to bypass technological protection measures.
-> - **Users must comply with Monokakido's terms of use and all applicable local laws when using this library.** Users are solely responsible for ensuring their use complies with laws in their jurisdiction.
+> - **Users must comply with Monokakido's terms of use and all applicable local laws when using this library.**
 > - This library is intended for legal use only and must not be used in violation of any laws, including but not limited to copyright laws in Japan or other countries.
 > - The author assumes no responsibility for any damages resulting from the use of this library.
 
