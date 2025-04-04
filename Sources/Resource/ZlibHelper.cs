@@ -1,16 +1,10 @@
 namespace MonokakidoParser.Resource;
 
-using System;
 using System.IO;
 using System.IO.Compression;
 
 public static class ZlibHelper
 {
-    /// <summary>
-    /// Decompresses zlib-compressed data and returns the decompressed byte array.
-    /// </summary>
-    /// <param name="inBuf">Input compressed byte array</param>
-    /// <returns>Decompressed byte array</returns>
     public static byte[] Decompress(byte[] inBuf)
     {
         using (var inStream = new MemoryStream(inBuf))
