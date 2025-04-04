@@ -8,8 +8,6 @@
 
 > [!CAUTION]
 >
-> **Legal Compliance and Responsibility**
->
 > - This library does not encourage or facilitate circumvention of technological protection measures or uses that exceed the scope of private copying permitted under copyright law.
 > - This library does not provide functionality to bypass technological protection measures.
 > - **Users must comply with Monokakido's terms of use and all applicable local laws when using this library.**
